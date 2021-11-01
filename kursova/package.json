@@ -1,0 +1,9 @@
+{
+  "name": "kursova",
+  "version": "0.0.0",
+  "description": "kursova",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
